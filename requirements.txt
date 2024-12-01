@@ -2,3 +2,4 @@ matplotlib==3.8.0
 numpy
 pandas
 scipy
+scikit-learn
